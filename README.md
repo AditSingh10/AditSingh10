@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Mathematics student at UW–Madison interested in backend and infrastructure engineering—especially distributed systems, databases, streaming systems, and reliability. I'm also exploring lower-level systems, firmware, and hardware-aware software.
 
-I'm researching physical design for semantic operator systems with Tianyu Li: how systems can choose, reuse, and refresh materialized LLM-derived artifacts across analytical workloads. My earlier research focused on hardware-efficient quantum readout, including a compact transformer using 98% fewer parameters and 45% fewer FPGA resources than the baseline.
+I'm researching physical design for semantic operator systems: how systems can choose, reuse, and refresh materialized LLM-derived artifacts across analytical workloads. My earlier research focused on hardware-efficient quantum readout, including a compact transformer using 98% fewer parameters and 45% fewer FPGA resources than the baseline.
 
 ## Selected work
 
